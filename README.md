@@ -2,7 +2,8 @@
 
 광고나 마케팅이 아닌, 지역 사람들이 진심으로 추천하는 맛집을 찾는 데에 중점을 SNS 서비스
 
-[➡️ 서비스 이용하기](https://matnam.vercel.app)  
+[➡️ 서비스 이용하기](https://fedc-5-mat-nam-ducki.vercel.app/)
+
 [➡️ 노션 페이지 보러가기](https://www.notion.so/prgrms/746ea06f80fe4d94b9f56f9d860f3b10)
 
 <br />
